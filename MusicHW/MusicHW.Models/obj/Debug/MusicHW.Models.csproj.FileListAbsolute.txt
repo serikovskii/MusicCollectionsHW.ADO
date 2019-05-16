@@ -1,0 +1,14 @@
+C:\Users\azat\source\repos\MusicHW\MusicHW.Models\bin\Debug\MusicHW.Models.dll.config
+C:\Users\azat\source\repos\MusicHW\MusicHW.Models\bin\Debug\MusicHW.Models.dll
+C:\Users\azat\source\repos\MusicHW\MusicHW.Models\bin\Debug\MusicHW.Models.pdb
+C:\Users\azat\source\repos\MusicHW\MusicHW.Models\bin\Debug\EntityFramework.dll
+C:\Users\azat\source\repos\MusicHW\MusicHW.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\azat\source\repos\MusicHW\MusicHW.Models\bin\Debug\EntityFramework.xml
+C:\Users\azat\source\repos\MusicHW\MusicHW.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\azat\source\repos\MusicHW\MusicHW.Models\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\azat\source\repos\MusicHW\MusicHW.Models\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\azat\source\repos\MusicHW\MusicHW.Models\obj\Debug\MusicHW.Models.csprojAssemblyReference.cache
+C:\Users\azat\source\repos\MusicHW\MusicHW.Models\obj\Debug\MusicHW.Models.csproj.CoreCompileInputs.cache
+C:\Users\azat\source\repos\MusicHW\MusicHW.Models\obj\Debug\MusicHW.Models.csproj.CopyComplete
+C:\Users\azat\source\repos\MusicHW\MusicHW.Models\obj\Debug\MusicHW.Models.dll
+C:\Users\azat\source\repos\MusicHW\MusicHW.Models\obj\Debug\MusicHW.Models.pdb
